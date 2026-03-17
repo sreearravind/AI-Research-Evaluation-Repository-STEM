@@ -1,5 +1,7 @@
 # AI Research Evaluation Repository (ARER)
 
+Under construction 👷🛠️
+
 ## 🌟 A New Way to Explore Scientific Ideas with AI
 
 Have a research idea while walking, traveling, or in a moment of curiosity?
