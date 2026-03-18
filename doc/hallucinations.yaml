@@ -1,0 +1,31 @@
+submission_id: "2026-001"
+
+model_info:
+  provider: "OpenAI"
+  model_name: "GPT-5.3"
+  generation_date: "2026-03-18"
+
+hallucinations:
+  - id: H001
+    type: "Reference Hallucination"
+    description: "Citation does not exist in Google Scholar"
+    location: "Section 4.2"
+    severity: "High"
+    verification_method: "DOI search failed"
+    status: "Confirmed"
+
+  - id: H002
+    type: "Technical Inaccuracy"
+    description: "Incorrect fatigue life equation used"
+    location: "Equation 3"
+    severity: "Medium"
+    verification_method: "Compared with standard Coffin-Manson relation"
+    status: "Confirmed"
+
+  - id: H003
+    type: "Unsupported Claim"
+    description: "Claim about 30% improvement without data"
+    location: "Conclusion"
+    severity: "Low"
+    verification_method: "No supporting data in text"
+    status: "Suspected"
