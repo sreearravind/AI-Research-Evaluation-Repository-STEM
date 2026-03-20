@@ -88,30 +88,65 @@ ARER accepts submissions from **STEM domains**, including:
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start  
 
-1. Explore the prototype →  
-   https://sreearravind-ai-research-evaluation-repository-arer.hf.space/  
+<p align="left">
 
-2. Read → `docs/PURPOSE_AND_SCOPE.md`  
-3. Understand policies → `docs/REFERENCES_AND_DOMAIN_POLICY.md`  
-4. Use template → `docs/SUBMISSION_TEMPLATE.md`  
-5. Prepare your AI-generated report  
-6. Submit via GitHub Pull Request  
+<a href="https://sreearravind-ai-research-evaluation-repository-arer.hf.space/">
+  <img src="https://img.shields.io/badge/🚀%20Launch-ARER%20Prototype-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sreearravind/AI-Research-Evaluation-Repository-STEM/blob/main/doc%2FPURPOSE_AND_SCOPE.md">
+  <img src="https://img.shields.io/badge/📖%20Read-Purpose%20%26%20Scope-green?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sreearravind/AI-Research-Evaluation-Repository-STEM/blob/main/doc%2FREFERENCES_AND_DOMAIN_POLICY.md">
+  <img src="https://img.shields.io/badge/📚%20Policies-References%20%26%20Domain-orange?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sreearravind/AI-Research-Evaluation-Repository-STEM/blob/main/doc%2FSUBMISSION_TEMPLATE.md">
+  <img src="https://img.shields.io/badge/📝%20Template-Submission%20Guide-purple?style=for-the-badge">
+</a>
+
+</p>
+
+### Steps
+
+1. Launch the prototype  
+2. Review repository scope and policies  
+3. Use the submission template  
+4. Prepare your AI-generated report  
+5. Submit via GitHub Pull Request  
 
 ---
 
-## 📂 Documentation
+## 📂 Documentation  
 
-All detailed guidelines are available in the `/docs` directory:
+<p align="left">
 
-* PURPOSE_AND_SCOPE.md → Vision and scope  
-* SUBMISSION_TEMPLATE.md → Submission format  
-* REFERENCES_AND_DOMAIN_POLICY.md → Reference rules  
-* FAQ.md → Common questions  
-* CONTRIBUTOR_AGREEMENT.md → Contributor responsibilities  
+<a href="https://github.com/sreearravind/AI-Research-Evaluation-Repository-STEM/blob/main/doc%2FPURPOSE_AND_SCOPE.md">
+  <img src="https://img.shields.io/badge/📖%20Purpose-Scope%20Document-green?style=for-the-badge">
+</a>
 
----
+<a href="https://github.com/sreearravind/AI-Research-Evaluation-Repository-STEM/blob/main/doc%2FSUBMISSION_TEMPLATE.md">
+  <img src="https://img.shields.io/badge/📝%20Submission-Template-blue?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sreearravind/AI-Research-Evaluation-Repository-STEM/blob/main/doc%2FREFERENCES_AND_DOMAIN_POLICY.md">
+  <img src="https://img.shields.io/badge/📚%20References-Policy-orange?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sreearravind/AI-Research-Evaluation-Repository-STEM/blob/main/doc%2FFAQ.md">
+  <img src="https://img.shields.io/badge/❓%20FAQ-Common%20Questions-lightgrey?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sreearravind/AI-Research-Evaluation-Repository-STEM/blob/main/doc%2FCONTRIBUTOR_AGREEMENT.md">
+  <img src="https://img.shields.io/badge/⚖️%20Contributor-Agreement-red?style=for-the-badge">
+</a>
+
+</p>
+
+--- 
 
 ## 🔄 Submission Workflow
 
