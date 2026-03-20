@@ -1,19 +1,24 @@
 # AI Research Evaluation Repository (ARER)
 
-Under construction 👷🛠️
+🚧 Under Construction
+
+🔗 **Live Prototype (v1):**  
+https://sreearravind-ai-research-evaluation-repository-arer.hf.space/
+
+---
 
 ## 🌟 A New Way to Explore Scientific Ideas with AI
 
-Have a research idea while walking, traveling, or in a moment of curiosity?
+Have a research idea while walking, traveling, or in a moment of curiosity?  
 What if you could transform that idea into a **structured scientific report in minutes using AI**?
 
 ARER enables exactly that.
 
 This repository allows contributors to:
 
-* Convert hypotheses into AI-generated research reports
-* Document and evaluate AI reasoning in STEM
-* Contribute to a growing scientific dataset for AI benchmarking
+* Convert hypotheses into AI-generated research reports  
+* Document and evaluate AI reasoning in STEM  
+* Contribute to a growing scientific dataset for AI benchmarking  
 
 ---
 
@@ -21,9 +26,14 @@ This repository allows contributors to:
 
 The **AI Research Evaluation Repository (ARER)** is an open, transparent platform designed to **systematically evaluate AI-generated research outputs in STEM domains**.
 
+A working prototype is available via the Hugging Face Space (link above), which supports:
+- submission workflows  
+- review pipeline (in development)  
+- structured archival design  
+
 Unlike traditional journals, ARER treats AI-generated research as a **study object**, not as validated science.
 
-> ⚠️ This repository does not validate scientific truth.
+> ⚠️ This repository does not validate scientific truth.  
 > It evaluates how AI constructs scientific reasoning.
 
 ---
@@ -34,11 +44,11 @@ The primary objective of ARER is to build a **reproducible and evidence-driven i
 
 The repository aims to:
 
-* Document AI-generated research with full transparency
-* Identify hallucinations and reasoning gaps
-* Evaluate model competence across domains
-* Provide benchmarking datasets
-* Support responsible AI adoption in engineering and science
+* Document AI-generated research with full transparency  
+* Identify hallucinations and reasoning gaps  
+* Evaluate model competence across domains  
+* Provide benchmarking datasets  
+* Support responsible AI adoption in engineering and science  
 
 ---
 
@@ -46,18 +56,18 @@ The repository aims to:
 
 ARER accepts submissions from **STEM domains**, including:
 
-* Materials Science and Metallurgy
-* Mechanical and Manufacturing Engineering
-* Aerospace and Structural Engineering
-* Physics and Applied Mathematics
-* Computational Science
-* AI applications in engineering
+* Materials Science and Metallurgy  
+* Mechanical and Manufacturing Engineering  
+* Aerospace and Structural Engineering  
+* Physics and Applied Mathematics  
+* Computational Science  
+* AI applications in engineering  
 
 🚫 Out of scope:
 
-* Social sciences
-* Humanities
-* Business-related research
+* Social sciences  
+* Humanities  
+* Business-related research  
 
 ---
 
@@ -65,26 +75,29 @@ ARER accepts submissions from **STEM domains**, including:
 
 ### ✅ This Repository IS:
 
-* A public archive of AI-generated scientific content
-* A dataset for evaluating AI reliability
-* A benchmarking resource for AI researchers
-* A transparency-driven research framework
+* A public archive of AI-generated scientific content  
+* A dataset for evaluating AI reliability  
+* A benchmarking resource for AI researchers  
+* A transparency-driven research framework  
 
 ### ❌ This Repository is NOT:
 
-* A peer-reviewed journal
-* A validation platform for scientific correctness
-* A source for engineering decision-making
+* A peer-reviewed journal  
+* A validation platform for scientific correctness  
+* A source for engineering decision-making  
 
 ---
 
 ## 🚀 Quick Start
 
-1. Read → `docs/PURPOSE_AND_SCOPE.md`
-2. Understand policies → `docs/REFERENCES_AND_DOMAIN_POLICY.md`
-3. Use template → `docs/SUBMISSION_TEMPLATE.md`
-4. Prepare your AI-generated report
-5. Submit via GitHub Pull Request
+1. Explore the prototype →  
+   https://sreearravind-ai-research-evaluation-repository-arer.hf.space/  
+
+2. Read → `docs/PURPOSE_AND_SCOPE.md`  
+3. Understand policies → `docs/REFERENCES_AND_DOMAIN_POLICY.md`  
+4. Use template → `docs/SUBMISSION_TEMPLATE.md`  
+5. Prepare your AI-generated report  
+6. Submit via GitHub Pull Request  
 
 ---
 
@@ -92,29 +105,27 @@ ARER accepts submissions from **STEM domains**, including:
 
 All detailed guidelines are available in the `/docs` directory:
 
-* PURPOSE_AND_SCOPE.md → Vision and scope
-* SUBMISSION_TEMPLATE.md → Submission format
-* REFERENCES_AND_DOMAIN_POLICY.md → Reference rules
-* FAQ.md → Common questions
-* CONTRIBUTOR_AGREEMENT.md → Contributor responsibilities
+* PURPOSE_AND_SCOPE.md → Vision and scope  
+* SUBMISSION_TEMPLATE.md → Submission format  
+* REFERENCES_AND_DOMAIN_POLICY.md → Reference rules  
+* FAQ.md → Common questions  
+* CONTRIBUTOR_AGREEMENT.md → Contributor responsibilities  
 
 ---
 
 ## 🔄 Submission Workflow
 
-1. Define a STEM research question
-2. Design prompt(s)
-3. Generate AI output
+1. Define a STEM research question  
+2. Design prompt(s)  
+3. Generate AI output  
 4. Document:
-
-   * prompt
-   * model details
-   * raw output
+   * prompt  
+   * model details  
+   * raw output  
 5. Analyze:
-
-   * correctness
-   * hallucinations
-6. Submit structured report
+   * correctness  
+   * hallucinations  
+6. Submit structured report  
 
 ---
 
@@ -122,10 +133,10 @@ All detailed guidelines are available in the `/docs` directory:
 
 ARER is open to:
 
-* 🎓 Students
-* 🧪 Academic researchers
-* 🏭 Industry professionals
-* 🧠 Independent thinkers in STEM
+* 🎓 Students  
+* 🧪 Academic researchers  
+* 🏭 Industry professionals  
+* 🧠 Independent thinkers in STEM  
 
 No prior publication experience is required.
 
@@ -137,42 +148,42 @@ All submissions contribute to an **open scientific dataset** used for:
 
 ### 1. AI Benchmarking
 
-* Comparing model performance
-* Domain-specific evaluation
+* Comparing model performance  
+* Domain-specific evaluation  
 
 ### 2. AI Reliability Research
 
-* Studying hallucinations
-* Understanding reasoning gaps
+* Studying hallucinations  
+* Understanding reasoning gaps  
 
 ### 3. AI System Development
 
-* Improving scientific AI tools
-* Designing safer AI workflows
+* Improving scientific AI tools  
+* Designing safer AI workflows  
 
 ### 4. Academic Research
 
-* Publications
-* Framework development
-* Reproducible studies
+* Publications  
+* Framework development  
+* Reproducible studies  
 
 ---
 
 ## 🧭 Guiding Principles
 
-* **Transparency** → Full prompt and output disclosure
-* **Reproducibility** → Repeatable workflows
-* **Scientific Rigor** → STEM-focused contributions
-* **Error Documentation** → Hallucinations must be recorded
-* **Open Access** → Data available for research use
+* **Transparency** → Full prompt and output disclosure  
+* **Reproducibility** → Repeatable workflows  
+* **Scientific Rigor** → STEM-focused contributions  
+* **Error Documentation** → Hallucinations must be recorded  
+* **Open Access** → Data available for research use  
 
 ---
 
 ## ⚖️ License (Summary)
 
-* Repository code → MIT License
-* AI-generated outputs → CC0 (public domain)
-* Documentation → CC BY 4.0
+* Repository code → MIT License  
+* AI-generated outputs → CC0 (public domain)  
+* Documentation → CC BY 4.0  
 
 ---
 
@@ -184,8 +195,8 @@ Turn it into a structured AI-generated scientific report.
 
 Contribute to a global effort to understand how AI thinks in science.
 
-👉 Your submission does not need to be perfect.
-👉 It needs to be transparent and honest.
+👉 Your submission does not need to be perfect.  
+👉 It needs to be transparent and honest.  
 
 ---
 
